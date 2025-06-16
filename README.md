@@ -217,4 +217,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  06/13/2025 04-18-51 Fixed broken link, now accessible
+
+
+Update:  06/16/2025 Fixed dead external links in changelog
